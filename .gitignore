@@ -1,0 +1,26 @@
+# .NET Core / .NET 5+ Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache and settings
+.vs/
+.idea/
+
+# Windows specifics
+Thumbs.db
+desktop.ini
+
+# Publish output
+publish/
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+*.bak
