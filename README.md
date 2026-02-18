@@ -67,7 +67,7 @@ ImageLab Pro features a **premium glassmorphism aesthetic**:
 - *.NET 8.0 Runtime is NOT required (Included in the Bundle)*
 
 ### Installation
-1. Download the latest `ImageLab.exe` from the [Releases](https://github.com/your-username/ImageLab/releases) section.
+1. Download the latest `ImageLab.exe` from the [Releases](https://github.com/santifour/ImageLab/releases) section.
 2. Run the executable. No installation needed.
 
 ---
@@ -103,4 +103,4 @@ Contributions are welcome! Whether it's a bug report, feature request, or a pull
 
 ---
 
-*Developed by **Fatih Durdu** with ❤️ for the open-source community.*
+*Developed by **Fatih (Santi) Mehmet** with ❤️ for the open-source community.*
