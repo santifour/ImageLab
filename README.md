@@ -1,14 +1,31 @@
-# 🖼️ ImageLab Pro
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Framework: .NET 8.0 WPF](https://img.shields.io/badge/Framework-.NET%208.0%20WPF-512bd4.svg)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
-[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg)](https://www.microsoft.com/windows)
+<div align="center">
+  <img src="app.ico" alt="ImageLab Logo" width="300" style="border-radius: 20px;"/>
+  
+  <h1>🖼️ ImageLab</h1>
+  <p><strong></strong></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet" alt=".NET 8"/>
+    <img src="https://img.shields.io/badge/WPF-Windows-0078D4?style=for-the-badge&logo=windows" alt="WPF"/>
+    <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge" alt="License"/>
+    <img src="https://img.shields.io/badge/Version-1.0.0-success?style=for-the-badge" alt="Version"/>
+  </p>
+  
+  <p>
+    <a href="#features">Features</a> •
+    <a href="#installation">Installation</a> •
+    <a href="#development">Development</a> •
+    <a href="#license">License</a> •   
+    <a href="#contributing">Contributing</a> •    
+  </p>
+</div>
 
 **ImageLab Pro** is a premium, high-performance desktop application designed for professional image manipulation. Built with **.NET 8.0 and WPF**, it offers a sleek, modern UI with a focus on speed, precision, and usability.
 
 ---
 
 ## ✨ Key Features
+<a id="features"></a>
 
 - **🚀 Professional Upscaling:** High-fidelity image enlargement using corrected Lanczos-3 interpolation and linear gamma correction.
 - **🛡️ Intelligent Noise Reduction:** Advanced edge-preserving Median Filtering to clean up noisy photos without losing detail.
@@ -43,6 +60,7 @@ ImageLab Pro features a **premium glassmorphism aesthetic**:
 ---
 
 ## 🚀 Getting Started
+<a id="installation"></a>
 
 ### Prerequisites
 - Windows 10/11 (x64)
@@ -55,6 +73,7 @@ ImageLab Pro features a **premium glassmorphism aesthetic**:
 ---
 
 ## 🏗️ Development
+<a id="development"></a>
 
 To build the project from source:
 
@@ -71,12 +90,14 @@ To build the project from source:
 ---
 
 ## 📜 License
+<a id="license"></a>
 
 This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 🤝 Contributing
+<a id="contributing"></a>
 
 Contributions are welcome! Whether it's a bug report, feature request, or a pull request, feel free to get involved.
 
